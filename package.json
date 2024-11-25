@@ -1,0 +1,19 @@
+{
+  "name": "bee-agent-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bee-agent-framework": "^0.0.42",
+    "dotenv": "^16.4.5",
+    "groq-sdk": "^0.8.0",
+    "zod": "^3.23.8"
+  }
+}
